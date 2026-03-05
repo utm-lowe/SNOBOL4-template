@@ -9,11 +9,14 @@
         "vscode": {
           "extensions": [
             "ms-vscode.makefile-tools",
-            "chipnetics.spitbol"
+            "vscjava.vscode-java-pack",
+            "RocketSoftware.rocket-cobol",
+            "chipnetics.spitbol",
           ]
         }
-    },
+      },
     "remoteEnv": {
-        "PATH": "${containerEnv:PATH}:${containerWorkspaceFolder}/.local/bin"
+        "PATH": "${containerEnv:PATH}:${containerWorkspaceFolder}/.local/bin",
+        "SNOLIB": "${containerWorkspaceFolder}/.local/lib/snobol4" 
     }
   }
