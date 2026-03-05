@@ -1,6 +1,9 @@
 MIT License
 
-Copyright (c) 2025 Dr. Lowe's UT Martin Classess
+This license applies to my configuration files and scripts. The csnobol4 source
+has its own license. See .local/src/snobol4-2.3.3 for mor information.
+
+Copyright (c) 2025 Robert Lowe <rlowe8@utm.edu> University of Tennnesse at Martin
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
